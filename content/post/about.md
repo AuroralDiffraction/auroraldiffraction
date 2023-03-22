@@ -10,8 +10,8 @@ showToc: false
 TocOpen: false
 draft: false
 hidemeta: true
-comments: false
-description: "Analog Circuit Design"
+comments: true
+description: "This is a short introduction of me!"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -35,4 +35,10 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-Hi there! This is AuroralDiffraction!
+# Hello!
+
+Welcome to my personal website! 
+
+I am AuroralDiffraction, an Analog IC Designer that is currently pursuing a Masters degree in Electrical Engineering at KU Leuven.
+
+{{< figure src="/images/profile/profilePic.jpg" title="Test Photo Shortcode" width="10%" attr="This is an image attribut text. It will be rendered." >}}

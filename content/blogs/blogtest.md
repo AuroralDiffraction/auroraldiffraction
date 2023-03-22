@@ -12,7 +12,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
@@ -38,3 +38,4 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 this is my new blogs
+aaabbb
